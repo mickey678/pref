@@ -1,0 +1,17 @@
+{
+  "name": "prefecture",
+  "version": "1.0.0",
+  "description": "permet de voir les horaires de rendez vous dispo sur le site de prefecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mickey",
+  "license": "ISC",
+  "dependencies": {
+    "gmail-send": "^1.2.14",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.0.0",
+    "request": "^2.88.0"
+  }
+}
